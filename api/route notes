@@ -1,0 +1,14 @@
+/*
+
+** MAPPED OUT API
+
+Create - POST / message
+Read - GET / message
+Read - GET / message/1
+Update - PATCH / message/1 
+Delete - DELETE / message/1
+
+
+
+*/
+
